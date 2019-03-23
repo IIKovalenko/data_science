@@ -1,0 +1,10 @@
+/.git
+/.ipynb_checkpoints
+/env
+bus_stops.csv
+Russia-2015.xlsx
+Russia-2016.xlsx
+image_no_1.py
+*.bmp
+*.jpg
+*.png

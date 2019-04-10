@@ -1,6 +1,7 @@
 /.git
 /.ipynb_checkpoints
 /env
+/.idea
 bus_stops.csv
 Russia-2015.xlsx
 Russia-2016.xlsx
